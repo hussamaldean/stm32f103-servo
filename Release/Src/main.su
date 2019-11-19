@@ -1,0 +1,4 @@
+main.c:61:6:servoangle	8	static
+main.c:126:6:SystemClock_Config	80	static
+main.c:72:5:main	104	static
+main.c:246:6:Error_Handler	0	static
